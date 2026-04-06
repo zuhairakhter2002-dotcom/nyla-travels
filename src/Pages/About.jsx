@@ -1,0 +1,12 @@
+import React from 'react'
+import Hero from '../components/Hero'
+
+function About() {
+  return (
+    <>
+       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur totam earum quae esse ad voluptatem distinctio alias voluptatum itaque vero error asperiores, fugit assumenda tenetur molestias? Illo voluptatum quaerat possimus dolorum asperiores repellat autem necessitatibus tempore totam, perspiciatis perferendis nam animi cum maxime et corrupti ea consequuntur commodi magnam cumque alias! Explicabo, accusantium. Facere quibusdam, sed minus officiis beatae aut dolores perspiciatis eveniet quasi quas nisi enim illo, error iste praesentium exercitationem mollitia, repellat dolor quis. Quasi, dolorum libero architecto quam alias laudantium aliquam perferendis, obcaecati veniam repudiandae natus aperiam temporibus vitae iusto vel? Ut unde eum eaque voluptas odit, tenetur molestias quisquam! Unde, saepe perferendis! Voluptatum obcaecati facere inventore ex aspernatur consequatur velit adipisci, illum molestias veniam, eaque ipsum perferendis atque iste ratione. Assumenda accusamus neque nisi odio soluta, quibusdam quis consequatur cum animi quisquam doloremque eveniet laborum praesentium quo delectus dolore doloribus. Quasi omnis, labore libero recusandae mollitia ipsum iure sed maiores dolorum ab id eveniet quo harum iste sint dignissimos! Laudantium explicabo assumenda laborum id aliquam error. Eveniet doloribus debitis magni illum ratione reprehenderit veritatis fugit, id, quibusdam enim laborum vel at nesciunt iste! Saepe, tempore ducimus voluptatem iste enim ipsum porro provident animi ad architecto aliquam, nihil nostrum! Laboriosam, temporibus quis sequi aliquid veritatis quae ipsam in assumenda sint deserunt! Labore deserunt, totam sapiente perferendis recusandae facere facilis quidem? Possimus ullam nemo quas libero a non! Praesentium nesciunt laborum autem mollitia quae alias ut doloremque error a aliquid velit placeat nobis officia eveniet, consectetur, minima quo esse. Optio, quos sed. Doloremque dignissimos quasi, recusandae quia optio amet fuga consectetur eius quas quae iusto est cumque aliquid assumenda. Corporis asperiores velit inventore necessitatibus aperiam nostrum unde culpa rerum delectus repellat, nihil fuga iusto minima, optio fugiat ad assumenda. Porro voluptates aspernatur, hic eveniet itaque ducimus minima voluptate.</p>
+    
+    </>  )
+}
+
+export default About
